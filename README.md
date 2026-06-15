@@ -8,10 +8,10 @@ An interactive Power BI dashboard designed to analyze retail sales, understand c
 ![Overview Dashboard](Overview.png)
 
 ### 2. Customer Profile Insights
-![Customer Profile Insights](CustomerProfile.png)
+![Customer Profile Insights](Customer.Profile.png)
 
 ### 3. Purchase Behavior Analysis
-![Purchase Behavior Analysis](PurchaseBehavior.png)
+![Purchase Behavior Analysis](Purchase.Behavior.png)
 
 ---
 
